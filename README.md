@@ -1,2 +1,2 @@
 #Repositorio
-Aqui van los ejercicios
+Aquí van los ejercicios
